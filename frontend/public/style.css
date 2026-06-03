@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hsl(305, 74%, 75%);
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(65, 64, 64);
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+form {
+    background: rgb(208, 164, 249);
+    padding: 15px;
+    width: 250px;
+    margin: 20px auto;
+}
